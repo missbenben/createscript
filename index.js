@@ -1,4 +1,5 @@
-import resolve from 'resolver'
+import resolve from 'whydoidoit-resolver'
+import 'playcanvas-attributes'
 
 if (window && window.document) {
 

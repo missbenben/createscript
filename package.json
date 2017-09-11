@@ -1,0 +1,26 @@
+{
+  "name": "createscript",
+  "version": "1.0.2",
+  "description": "Monkey Patch to enable parsing of ES6 compiled script modules in PlayCanvas, both in the Editor and at runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/createscript.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/createscript/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/createscript#readme",
+  "dependencies": {
+    "playcanvas-attributes": "^1.0.1",
+    "whydoidoit-resolver": "^1.0.0"
+  }
+}
